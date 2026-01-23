@@ -1,8 +1,30 @@
 {
-	"author" : "Web-Dev Cohort 2026 Students",
-	"creation-date" : "23-01-2026",
-	"quotes" : [
-		{}
-	]
+  "author": "Web-Dev Cohort 2026 Students",
+  "creation-date": "23-01-2026",
+  "quotes": [
+    {
+      "author": "Hitesh Sir",
+      "msg": "code ki toh fitrat hai fatna",
+      "author-is-admin": true,
+      "date": "23-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "mano toh sab sahi, jano toh ek sahi",
+      "author-is-admin": true,
+      "date": "23-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Khwahish nhi mujhe mashoor hone ki, aap hame phchante h, itna kaafi h",
+      "author-is-admin": true,
+      "date": "23-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "don’t be a open source contributor try to be a open source creator.",
+      "author-is-admin": true,
+      "date": "23-01-2026"
+    }
+  ]
 }
-
