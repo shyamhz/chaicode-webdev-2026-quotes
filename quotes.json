@@ -49,6 +49,12 @@
       "msg": "Zimmedari ke kandho ko thakne ki ijazat nhi hoti",
       "author-is-admin": true,
       "date": "24-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Aap sote huye admi ko jaga saqte ho, sone ki acting karne walo ko nehi jaga saqte",
+      "author-is-admin": true,
+      "date": "24-01-2026"
     }
   ]
 }
