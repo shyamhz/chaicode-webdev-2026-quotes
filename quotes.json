@@ -43,6 +43,12 @@
       "msg": "Aap sahi, hum galat. Kissa khatam",
       "author-is-admin": true,
       "date": "24-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Zimmedari ke kandho ko thakne ki ijazat nhi hoti",
+      "author-is-admin": true,
+      "date": "24-01-2026"
     }
   ]
 }
