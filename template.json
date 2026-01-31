@@ -1,13 +1,15 @@
 {
 	"author" : "Web-Dev Cohort 2026 Students",
 	"creation-date" : "23-01-2026",
-	"quotes" : [
-		{
-		"author" : "Author Name",
-		"msg" : "The actual Quote",
-		"author-is-admin" : false,
-		"date" : "23-01-2026"
-		}
-	]
+	"quotes":{
+		"author":"Author Name",
+		"author-is-admin":false,
+		"quote_by_above_author":[
+			{
+				"msg":"The Actual Quote",
+				"date":"23-01-2026"
+			}
+		]
+	}
+	
 }
-
