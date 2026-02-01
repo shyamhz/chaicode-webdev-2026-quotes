@@ -55,7 +55,18 @@
       "msg": "Aap sote huye admi ko jaga saqte ho, sone ki acting karne walo ko nehi jaga saqte",
       "author-is-admin": true,
       "date": "24-01-2026"
+    },
+    {
+      "author":"Hitesh Sir",
+      "msg":"Ek SaaS me aap kbhi bhi feature nhi bechte, You always sell maintenance",
+      "author-is-admin":true,
+      "date":"22-01-2026"
+    },
+    {
+      "author":"Hitesh Sir",
+      "msg":"Paisa vhi hai jo bank me hit krta hai, baaki sb hawai baate hain",
+      "author-is-admin":true,
+      "date":"01-02-2026"
     }
   ]
 }
-
