@@ -49,7 +49,30 @@
       "msg": "Zimmedari ke kandho ko thakne ki ijazat nhi hoti",
       "author-is-admin": true,
       "date": "24-01-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Aap sote huye admi ko jaga saqte ho, sone ki acting karne walo ko nehi jaga saqte",
+      "author-is-admin": true,
+      "date": "24-01-2026"
+    },
+    {
+      "author":"Hitesh Sir",
+      "msg":"Ek SaaS me aap kbhi bhi feature nhi bechte, You always sell maintenance",
+      "author-is-admin":true,
+      "date":"22-01-2026"
+    },
+    {
+      "author":"Hitesh Sir",
+      "msg":"Paisa vhi hai jo bank me hit krta hai, baaki sb hawai baate hain",
+      "author-is-admin":true,
+      "date":"01-02-2026"
+    },
+    {
+      "author":"Piyush Sir",
+      "msg":"The only commitment I've in my life is git commit",
+      "author-is-admin":true,
+      "date":"02-02-2026"
     }
   ]
 }
-
