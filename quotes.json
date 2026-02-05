@@ -91,6 +91,18 @@
       "msg": "weekend ke tukke million dollar ke hojaate hai.",
       "author-is-admin": true,
       "date": "04-02-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Databases jhoot nahi bolte",
+      "author-is-admin": true,
+      "date": "05-02-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Unhone kaha ki aapki chats end-to-end encrypted hai toh aap maan loge kya, kaun audit kar raha hai unhe ?!",
+      "author-is-admin": true,
+      "date": "05-02-2026"
     }
   ]
 }
