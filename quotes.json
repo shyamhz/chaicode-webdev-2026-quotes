@@ -115,6 +115,12 @@
       "msg": "Agar aap Javascript ke sath nahi kheloge to JavaScript apke sath khelegi",
       "author-is-admin": true,
       "date": "08-02-2026"
+    },
+    {
+      "author": "Hitesh Sir",
+      "msg": "Jiska koi nahi hota, uska default hota hai",
+      "author-is-admin": true,
+      "date": "14-02-2026"
     }
   ]
 }
